@@ -4,7 +4,7 @@
 
 #define CMARK_NO_SHORT_NAMES
 #include "cmark.h"
-#include "node.h"
+#include "cnode.h"
 
 #include "harness.h"
 #include "cplusplus.h"

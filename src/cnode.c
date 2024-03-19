@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "node.h"
+#include "cnode.h"
 
 static void S_node_unlink(cmark_node *node);
 

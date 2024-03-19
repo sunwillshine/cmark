@@ -6,7 +6,7 @@
 
 #include "cmark_ctype.h"
 #include "cmark.h"
-#include "node.h"
+#include "cnode.h"
 #include "buffer.h"
 #include "houdini.h"
 #include "scanners.h"

@@ -3,7 +3,7 @@
 #include "cmark.h"
 #include "utf8.h"
 #include "render.h"
-#include "node.h"
+#include "cnode.h"
 #include "cmark_ctype.h"
 
 static inline void S_cr(cmark_renderer *renderer) {

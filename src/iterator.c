@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-#include "node.h"
+#include "cnode.h"
 #include "cmark.h"
 #include "iterator.h"
 

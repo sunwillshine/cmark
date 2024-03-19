@@ -5,7 +5,7 @@
 #include <string.h>
 
 #include "cmark.h"
-#include "node.h"
+#include "cnode.h"
 #include "buffer.h"
 
 #define BUFFER_SIZE 100

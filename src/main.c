@@ -4,7 +4,7 @@
 #include <string.h>
 
 #include "cmark.h"
-#include "node.h"
+#include "cnode.h"
 
 #if defined(__OpenBSD__)
 #  include <sys/param.h>

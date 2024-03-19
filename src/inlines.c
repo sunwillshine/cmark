@@ -4,7 +4,7 @@
 #include <string.h>
 
 #include "cmark_ctype.h"
-#include "node.h"
+#include "cnode.h"
 #include "parser.h"
 #include "references.h"
 #include "cmark.h"
